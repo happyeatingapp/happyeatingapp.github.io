@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.webviewgold.whattocook",
+      "sha256_cert_fingerprints": [
+        "6C:BA:46:74:7D:B1:F1:B5:C4:6A:29:B8:E7:AD:C4:04:B1:18:55:E9:B9:F0:56:D8:54:9C:D6:08:C4:8C:0E:E4"
+      ]
+    }
+  }
+]
